@@ -1,2 +1,2 @@
-# DataStructure
-In this project I implement different algorithms using C++
+#   Ejercicios usando POO
+Repositorios con varios ejercicios usando POO
